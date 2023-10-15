@@ -12,6 +12,7 @@ import java.net.http.HttpResponse.BodyHandlers;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
+ import org.example.Main;
 
 public class ExpenseSheetManagementEndToEndTest {
 
